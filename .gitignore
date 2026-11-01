@@ -8,3 +8,8 @@ coverage/
 .idea/
 .vscode/
 NOTES-FOR-CLAUDE.txt
+
+# Local scratch output (not part of the project)
+output/
+test-artifacts/
+tmp/
