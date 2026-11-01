@@ -13,7 +13,7 @@ services:
       - key: NODE_VERSION
         value: 22
       - key: CLIENT_ORIGIN
-        value: https://laxmiyadav72335.github.io
+        value: https://adityakushwaha8421-crypto.github.io
       - key: GEMINI_MODEL
         value: gemini-3.5-flash
       - key: GEMINI_EXPLAIN_MODEL
